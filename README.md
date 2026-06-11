@@ -4,6 +4,7 @@
 <h3> 1. Create Ec2 instance first (type: c7i-flex.large 
   OS : Ubuntu) </h3>
 <h3>2. Dependency : (install in EC2)</h3>
+<h3>Fork This Repo Put in Pipeline Code & ArgoCD : https://github.com/ejazshaikh-devops/Project-Myntra-Clone.git </h3>
 <br>
 <h3>Install NodeJS-16</h3>
 
